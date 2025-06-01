@@ -1,0 +1,346 @@
+Price,Brand,Processor Generation,Processor Type,Processor Speed,Installed RAM,SSD,Graphic Series,Screen Resolution,TouchScreen,Color,Weight,Finger Print Reader,Backlit keyboard,LAN
+294999,Acer,RYZEN 7,AMD RYZEN 7,5.1,16,512,NVIDIA GeForce RTX 4050,16,No,Unknown,2.44,No,Yes,Yes
+287000,Acer,14th Generation,Intel Core i9,2.2,16,1024,RTX 4060,1920x1200,No,Black,2.8,No,Yes,Yes
+385000,Acer,13th Generation,Intel Core i5,2.1,8,512,RTX 4050,1920x1080,No,Black,4.66,No,Yes,Yes
+106900,Acer,13th Generation,Intel Core i5,2.1,8,512,RTX 4050,1920x1080,No,Black,4.66,No,Yes,Yes
+228000,Acer,14th Generation,Intel Core i9,2.2,16,1024,RTX 4060,1920x1200,No,Black,2.8,No,Yes,Yes
+218000,Acer,13th Generation,Intel Core i5,2.1,8,512,RTX 4050,1920x1080,No,Black,4.66,No,Yes,Yes
+174900,Acer,13th Generation,Intel Core i5,2.1,8,512,RTX 4050,1920x1080,No,Black,4.66,No,Yes,Yes
+245000,Acer,13th Generation,Intel Core i5,2.1,8,512,RTX 4050,1920x1080,No,Black,4.66,No,Yes,Yes
+102900,Acer,13th Generation,Intel Core i5,2.1,8,512,RTX 4050,1920x1080,No,Black,4.66,No,Yes,Yes
+119900,Acer,13th Generation,Intel Core i5,2.1,8,512,RTX 4050,1920x1080,No,Black,4.66,No,Yes,Yes
+454999,Acer, Ultra 9,Intel Core Ultra,5.4,32,1024,Nvidia RTX 4060 GDDR6,2560x1600,No,Unknown,2.7,No,Yes,Yes
+974998,Acer,14th Generation,Core i9,2.2,64,2048,NVIDIA GeForce RTX 4090 GDDR6,2560x1600,No,Unknown,3.2,No,Yes,Yes
+530000,Acer,14th Generation,Core i9,5.4,16,1024,Nvidia RTX 4070 GDDR6,2560x1600,No,Unknown,2.7,No,Yes,Yes
+699999,Acer,14th Generation,Core i9,2.2,32,1024,NVIDIA GeForce RTX 4080 GDDR6,2560x1600,No,Unknown,2.5,No,Yes,Yes
+339999,Acer,13th Generation,Core i9,4.6,16,512,Nvidia RTX 4060 GDDR6,1920x1080,No,Unknown,2.11,No,Yes,Yes
+417999,Acer,14th Generation,Core i9,5.4,16,1024,Nvidia RTX 4060 GDDR6,2560x1600,No,Unknown,2.7,No,Yes,Yes
+464999,Acer, Ultra 9,Intel Core Ultra,5.4,32,1024,Nvidia RTX 4060 GDDR6,2560x1600,No,Unknown,2.7,No,Yes,Yes
+329999,Acer,RYZEN 7,AMD RYZEN 7,5.1,16,512,NVIDIA GeForce RTX 4060,16,No,Unknown,2.44,No,Yes,Yes
+319999,Acer,13th Generation,Core i7,4.9,16,512,Nvidia RTX 4060 GDDR6,1920x1080,No,Unknown,2.11,No,Yes,Yes
+332999,Asus,13th Generation,Core i7,4.9,16,512,NVIDIA RTX 3050,1920x1080,No,Unknown,1.8,No,No,Yes
+194999,Asus, Ultra 5,Intel Core Ultra,4.6,8,512,Unknown,12.29x8.66x0.59,No,Unknown,1.27,Yes,No,Yes
+352999,Asus,RYZEN 7,AMD RYZEN 7,5.1,16,1024,AMD Radeon Graphics,29.62x1.09,No,Unknown,1.65,Yes,No,Yes
+399999,Asus, Ultra 7,Core Ultra,4.8,16,1024,Intel Arc Graphics,29.62x1.09,No,Unknown,1.65,Yes,No,Yes
+559999,Asus, Ultra 7,Core Ultra,4.8,16,1024,Intel Arc Graphics,31.35x21.79x1.461.99,No,Unknown,1.65,Yes,No,Yes
+114900,Asus,AMD,AMD Ryzen™ ,4.9,16,512,AMD Radeon,1920x1080,Yes,White,608.0,Yes,No,No
+137900,Asus,12th Generation,Intel Core i5,1.3,8,512,Intel Iris Xe Graphics,1920x1080,Yes,Black,1.61,No,No,Yes
+122999,Asus,13th Generation,Core i3,1.2,4,512,Intel Iris Xe Graphics,35.97x23.25x1.791.79,No,Pike Silver,1.7,Yes,Yes,Yes
+203999,Asus,AMD,AMD Ryzen™ ,4.9,16,512,AMD Radeon,1920x1080,Yes,White,608.0,Yes,No,No
+749000,Asus,12th Generation,Intel Core i5,1.3,8,512,Intel Iris Xe Graphics,1920x1080,No,Black,1.69,Yes,Yes,Yes
+106900,Asus,AMD,AMD Ryzen 9 ,4.0,16,1024,RTX 4050,1920x1080,No,Blue,1.8,No,No,No
+144900,Asus,12th Generation,Intel Core i7,1.7,16,512,Intel Iris Xe Graphics,1920x1080,Yes,Black,1.67,Yes,No,Yes
+100000,Asus, Ultra 9,Core Ultra,5.1,32,1024,Intel Arc Graphics,35.36x24.69x1.391.59,No,Silver,1.5,Yes,Yes,Yes
+279999,Asus, Ultra 7,Intel Core Ultra,4.6,16,1024,Unknown,12.29x8.66x0.59,No,Unknown,1.27,Yes,No,Yes
+364999,Asus, Ultra 7,Core Ultra,5.1,16,1024,NVIDIA GeForce RTX 4050,1920x1080,No,Natural Silver,1.8,Yes,Yes,No
+344999,Asus,13th Generation,Core i9,5.4,16,1024,NVIDIA RTX 3050,2880x1620,No,Unknown,1.8,Yes,Yes,Yes
+644999,Asus,14th Generation,Core i9,5.8,16,1024,NVIDIA GeForce RTX4070,2560x1600,No,Unknown,2.5,No,Yes,Yes
+524999,Asus,14th Generation,Core i9,5.8,16,2048,NVIDIA GeForce RTX4060,1920x1200,No,Unknown,2.5,No,Yes,Yes
+489999,Asus,13th Generation,Core i9,5.8,16,1024,NVIDIA GeForce RTX4060,1920x1200,No,Black,2.5,No,Yes,Yes
+594999,Asus,14th Generation,Core i9,5.8,16,1024,NVIDIA GeForce RTX4060,2560x1600,No,Graphite,2.5,No,Yes,Yes
+486999,Asus,Ryzen 9,AMD Ryzen 9,5.2,16,1024,NVIDIA GeForce RTX 4060 GDDR6,2560x1440,No,Natural silver,2.79,Yes,Yes,Yes
+759999,Asus,13th Generation,Core i9,5.6,16,1024,NVIDIA GeForce RTX4080,2560x1600,No,Silver,3.0,Yes,Yes,Yes
+100000,Asus,13th Generation,Core i9,5.6,16,1024,NVIDIA GeForce RTX4070,2560x1600,No,Silver,3.0,Yes,Yes,Yes
+339999,Asus, Ultra 7,Core Ultra,4.8,16,1024,NVIDIA GeForce RTX 3050,1920x1080,No,Unknown,1.9,Yes,Yes,No
+479999,Asus,13th Generation,Core i7,4.9,16,2048,NVIDIA GeForce RTX 4060,2560x1600,No,Warm Gold,3.0,Yes,Yes,Yes
+629999,Asus,14th Generation,Core i9,5.8,16,1024,NVIDIA GeForce RTX4060,2560x1600,No,Unknown,3.0,Yes,Yes,Yes
+203999,Asus,14th Generation,Intel Core Ultra 7 155u Processor,1.7,16,1024,RTX 4050,2880x1620,No,Silver,1.8,No,Yes,Yes
+351999,Asus,13th Generation,Core i7,4.9,16,512,Nvidia RTX 4050 GDDR6,1920x1080,No,Silver,2.2,Yes,Yes,Yes
+406999,Asus,13th Generation,Core i7,4.9,16,512,NVIDIA GeForce RTX 4060 GDDR6,1920x1080,No,Pike Silver Aluminum,2.2,Yes,Yes,Yes
+379999,Asus,13th Generation,Core i7,4.9,16,512,NVIDIA GeForce RTX 4060 GDDR6,1920x1080,No,Pike Silver Aluminum,2.2,Yes,Yes,Yes
+347999,Asus,Ryzen 9,AMD Ryzen 9,5.2,16,1024,Nvidia RTX 4050 GDDR6,2880x1620,No,Natural Silver,1.8,No,Yes,No
+252999,Asus,12th Generation,Intel Core i5,4.5,16,512,NVIDIA RTX3050,1920x1080,No,Silver,2.3,Yes,Yes,Yes
+334999,Asus,Ryzen 9,AMD Ryzen 9,5.2,16,1024,Nvidia RTX 4050 GDDR6,2880x1620,No,Unknown,1.8,No,Yes,No
+389999,Asus,13th Generation,Core i7,4.9,16,512,NVIDIA GeForce RTX 4060 GDDR6,1920x1200,No,Pike Silver Aluminum,2.27,No,Yes,Yes
+234999,Asus,Ryzen 5,AMD Ryzen 5,4.55,8,512,Nvidia RTX 3050 GDDR6,1920x1080,No,Silver,2.3,Yes,Yes,Yes
+396999,Asus,13th Generation,Core i7,5.0,16,512,NVIDIA GeForce RTX 4060 GDDR6,1920x1080,No,Pike Silver Aluminum,2.6,No,Yes,Yes
+344999,Asus,Ryzen 9,AMD Ryzen 9,5.2,16,1024,Nvidia RTX 4050 GDDR6,1920x1080,No,Pike Silver Aluminum,1.8,No,Yes,No
+205000,Dell,12th Generation,Intel Core i5,1.3,8,512,Intel Iris Xe Graphics,1920x1080,No,Black,3.65,No,Yes,Yes
+385000,Dell,12th Generation,Intel Core i3,1.2,8,512,Intel Iris Xe Graphics,1920x1080,No,Black,3.65,No,Yes,Yes
+228900,Dell,13th Generation,Intel Core i9,2.2,16,1024,RTX 4060,2560x1600,No,Silver,6.3,No,No,Yes
+245000,Dell,12th Generation,Intel Core i3,1.2,8,512,Intel Iris Xe Graphics,1920x1080,No,Black,3.65,No,Yes,Yes
+244900,Dell,12th Generation,Intel Core i5,1.3,8,512,Intel Iris Xe Graphics,1920x1080,No,Black,3.65,No,Yes,Yes
+270000,Dell,13th Generation,Intel Core i7,3.6,16,1024,RTX 4060,1920x1080,No,Grey,2.81,No,Yes,Yes
+224900,Dell,13th Generation,Intel Core i7,3.6,16,1024,RTX 4060,1920x1080,No,Grey,2.81,No,Yes,Yes
+108900,Dell,13th Generation,Intel Core i7,3.6,16,1024,RTX 4060,1920x1080,No,Grey,2.81,No,Yes,Yes
+119900,Dell,13th Generation,Intel Core i5,1.3,8,256,Intel Iris Xe Graphics,1920x1080,No,Black,3.99,Yes,Yes,No
+136900,Dell,13th Generation,Intel Core i7,3.6,16,1024,RTX 4060,1920x1080,No,Grey,2.81,No,Yes,Yes
+174900,Dell,13th Generation,Intel Core i7,3.6,16,1024,RTX 4060,1920x1080,No,Grey,2.81,No,Yes,Yes
+166900,Dell,12th Generation,Intel Core i5,1.3,8,512,Intel Iris Xe Graphics,1920x1080,No,Black,3.65,No,Yes,Yes
+159900,Dell,12th Generation,Intel Core i3,1.2,8,512,Intel Iris Xe Graphics,1920x1080,No,Black,3.65,No,Yes,Yes
+559000,Dell,12th Generation,Intel Core i3,1.2,8,512,Intel Iris Xe Graphics,1920x1080,No,Black,3.65,No,Yes,Yes
+749000,Dell,12th Generation,Intel Core i5,1.3,8,512,Intel Iris Xe Graphics,1920x1080,No,Black,3.65,No,Yes,Yes
+799000,Dell,13th Generation,Intel Core i5,1.3,8,256,Intel Iris Xe Graphics,1920x1080,Yes,Grey,2.75,No,No,No
+899000,Dell,12th Generation,Intel Core i3,1.2,8,512,Intel Iris Xe Graphics,1920x1080,No,Black,3.65,No,Yes,Yes
+100000,Dell,12th Generation,Intel Core i5,1.3,8,512,Intel Iris Xe Graphics,1920x1080,No,Black,3.65,No,Yes,Yes
+102900,Dell,13th Generation,Intel Core i7,3.6,16,1024,RTX 4060,1920x1080,No,Grey,2.81,No,Yes,Yes
+109900,Dell,13th Generation,Intel Core i5,1.3,8,512,Intel UHD Graphics,1920x1080,No,Silver,1.63,No,Yes,No
+219900,Dell,13th Generation,Intel Core i7,1.7,16,512,Intel Iris Xe Graphics,1920x1080,No,Black,4.28,Yes,Yes,Yes
+106900,Dell,12th Generation,Intel Core i3,1.2,8,512,Intel Iris Xe Graphics,1920x1080,No,Black,3.65,No,Yes,Yes
+287000,Dell,13th Generation,Intel Core i9,2.2,16,1024,RTX 4060,2560x1600,No,Silver,6.3,No,No,Yes
+245000,Dell,12th Generation,Intel Core i7,1.1,16,512,Intel Iris Xe Graphics,1920x1200,No,Sky Color,2.59,Yes,No,No
+112900,Dell,12th Generation,Intel Core i5,1.3,8,512,Intel Iris Xe Graphics,1920x1080,No,Black,3.65,No,Yes,Yes
+122900,Dell,13th Generation,Intel Core i7,3.6,16,1024,RTX 4060,1920x1080,No,Grey,2.81,No,Yes,Yes
+254999,Dell,13th Generation,Core i7,5.0,8,512,Intel Iris Xe Graphics,0,No,Unknown,1.61,No,No,Yes
+144999,Dell,13th Generation,Core i5,1.3,16,512,Intel Iris Xe Graphics,0,No,Unknown,1.94,No,No,Yes
+179999,Dell,13th Generation,Core i7,4.6,16,512,Intel Iris Xe Graphics,14.11x0.83x9.27,No,Unknown,1.65,No,No,Yes
+104999,Dell,12th Generation,Core i3,4.4,8,512,Intel UHD Graphics,0,No,Unknown,1.66,No,No,Yes
+369999,Dell,Unknown,Intel Core i7,5.2,16,512,Intel Iris Xe Graphics,31.30x22.27x1.82,Yes,Unknown,1.67,No,No,Yes
+422999,Dell, Ultra 7,Intel Core Ultra,4.8,16,512,Intel Arc Graphics,: 15.3(0.60,No,Unknown,1.17,No,Yes,No
+404999,Dell, Ultra 7,Intel Core Ultra,4.8,16,512,SSD,0,Yes,Unknown,1.67,No,No,No
+167999,Dell,13th Generation,Core i5,4.6,8,256,Intel Iris Xe Graphics,0,No,Unknown,1.61,No,No,Yes
+166999,Dell,Unknown,Intel Core i5,4.4,8,256,Intel Iris Xe Graphics,0,No,Unknown,1.59,No,No,Yes
+232999,Dell,12th Generation,Core i5,4.4,16,256,SSD,0,Yes,Unknown,1.67,Yes,No,No
+354999,Dell,13th Generation,Core i7,5.0,8,512,Intel Iris Xe Graphics,0,No,Storm Grey,1.36,Yes,No,Yes
+133999,Dell,12th Generation,Core i5,4.4,8,512,Intel Iris Xe Graphics,0,No,Unknown,1.66,No,No,Yes
+169999,Dell,Unknown,Intel Core i5,4.6,8,1024,Intel Iris Xe Graphics,0,No,Black,1.53,Yes,No,Yes
+479999,Dell,13th Generation,Core i9,5.4,32,1024,NVIDIA GeForce RTX 4060 GDDR6,2560x1600,No,Grey,2.87,Yes,Yes,Yes
+514999,Dell,13th Generation,Core i9,5.4,16,1024,NVIDIA GeForce RTX 4070 GDDR6,2560x1600,No,Arctic Grey,2.87,Yes,Yes,Yes
+159999,Dell,13th Generation,Core i5,4.6,8,512,Intel UHD Graphics,0,No,Black,1.63,Yes,Yes,Yes
+164999,Dell,12th Generation,Core i7,4.7,8,512,Intel UHD Graphics,0,No,Unknown,1.66,No,No,Yes
+859999,Dell,13th Generation,Core i9,5.4,32,1024,SSD,0,Yes,Unknown,16.0,Yes,No,No
+529999,Dell, Ultra 7,Intel Core Ultra,1.4,32,1024,NVIDIA GeForce RTX 4070 GDDR6,2560x1600,No,Unknown,1.02,Yes,Yes,Yes
+579999,Dell, Ultra 9,Intel Core Ultra,2.3,16,1024,NVIDIA GeForce RTX 4060 GDDR6,2560x1600,No,Unknown,1.02,Yes,Yes,Yes
+339999,Dell,13th Generation,Core i7,4.9,16,512,Nvidia RTX 4060 GDDR6,1920x1080,No,Unknown,2.81,Yes,Yes,Yes
+226900,Hp,13th Generation,Intel Core i9,2.2,16,1024,RTX 4060,1920x1080,No,Black,5.24,No,No,Yes
+160000,Hp,13th Generation,Intel Core i3,1.2,4,256,Intel UHD Graphics,1920x1080,No,Silver,1.59,No,Yes,No
+183499,Hp,13th Generation,Core i7,5.0,8,512,SSD,16:9,Yes,Unknown,1.67,No,No,Yes
+156999,Hp,13th Generation,Intel Core i5,4.6,8,512,Intel Iris Xe Graphics,0,No,Unknown,1.59,No,Yes,Yes
+170000,Hp,13th Generation,Intel Core i5,1.3,8,512,Intel Iris Xe Graphics,1920x1080,No,Silver,1.52,No,Yes,No
+174900,Hp,12th Generation,Intel Core i5,2.0,8,512,RTX 3050,1920x1080,No,Black,5.06,No,Yes,Yes
+208000,Hp,12th Generation,Intel Core i5,2.0,8,512,RTX 3050,1920x1080,No,Black,5.06,No,Yes,Yes
+206900,Hp,13th Generation,Intel Core i5,1.3,8,512,Intel Iris Xe Graphics,1920x1080,No,Silver,1.52,No,Yes,No
+122999,Hp,Unknown,Intel Core i3,3.8,8,512,Intel UHD Graphics,35.98x23.6x1.86,No,Unknown,1.59,No,No,Yes
+178000,Hp,14th Generation,Intel Core Ultra 7 155u Processor,1.7,8,512,Intel Integrated Graphics,1920x1200,No,Silver,1.39,Yes,No,No
+184900,Hp,Intel Core Ultra 7,Intel® Core™ Ultra 7,1.7,16,1024,Intel Iris Xe Graphics,1920x1200,Yes,Silver,4.14,No,No,No
+203999,Hp,13th Generation,Intel Core i3,1.2,4,256,Intel UHD Graphics,1920x1080,No,Silver,1.59,No,Yes,No
+177999,Hp,12th Generation,Core i7,4.7,8,512,Intel Iris Xe Graphics,35.85x24.2x1.79,No,Unknown,1.7,No,Yes,Yes
+157999,Hp,Ryzen 7,AMD Ryzen 7,4.5,8,512,Intel Iris Xe Graphics,35.98x23.6x1.86,No,Unknown,1.59,No,Yes,Yes
+108900,Hp,12th Generation,Intel Core i5,2.5,16,512,RTX 3050,1920x1080,No,Silver,2.29,No,Yes,Yes
+105999,Hp,Unknown,Intel Core i3,4.5,4,256,SSD,16:9,Yes,Unknown,1.67,No,No,Yes
+344999,Hp,13th Generation,Intel Core i7,2.1,16,512,RTX 4060,1920x1080,No,Black,2.31,No,Yes,Yes
+329900,Hp,13th Generation,Intel Core i9,2.2,16,1024,RTX 4060,1920x1080,No,Black,5.24,No,No,Yes
+161999,Hp,13th Generation,Core i5,4.6,8,512,Intel Iris Xe Graphics,35.98x23.6x1.86,No,Unknown,1.59,No,Yes,Yes
+177000,Hp,13th Generation,Intel Core i9,2.2,16,1024,RTX 4060,1920x1080,No,Black,5.24,No,No,Yes
+159999,Hp,13th Generation,Intel Core i5,4.6,8,512,Intel Iris Xe Graphics,0,No,Unknown,1.59,No,Yes,Yes
+108499,Hp,Unknown,Intel Core i3,3.3,4,256,Intel UHD Graphics,36x23.6x1.86,No,Unknown,1.52,No,No,Yes
+649000,Hp,13th Generation,Intel Core i3,1.2,4,256,Intel UHD Graphics,1920x1080,No,Silver,1.59,No,Yes,No
+117000,Hp,12th Generation,Intel Core i5,2.0,8,512,RTX 3050,1920x1080,No,Black,5.06,No,Yes,Yes
+115000,Hp,13th Generation,Intel Core i5,1.3,8,512,Intel Iris Xe Graphics,1920x1080,No,Silver,1.52,No,Yes,No
+108900,Hp,13th Generation,Intel Core i3,1.2,4,256,Intel UHD Graphics,1920x1080,No,Silver,1.59,No,Yes,No
+143000,Hp,13th Generation,Intel Core i9,2.2,16,1024,RTX 4060,1920x1080,No,Black,5.24,No,No,Yes
+294900,Hp,14th Generation,Intel® Core™ Ultra 5,1.3,8,512,Intel Integrated Graphics,1920x1200,No,Silver,1.74,Yes,Yes,Yes
+144900,Hp,12th Generation,Intel Core i5,2.0,8,512,RTX 3050,1920x1080,No,Black,5.06,No,Yes,Yes
+244900,Hp,13th Generation,Intel Core i7,1.7,8,512,Intel Iris Xe Graphics,1920x1080,No,Silver,1.52,Yes,Yes,No
+219900,Hp,AMD,AMD Ryzen 5 ,3.3,8,512,AMD Radeon,1920x1080,No,Black,5.06,No,Yes,Yes
+199900,Hp,12th Generation,Intel Core i7,1.7,8,512,Intel Iris Xe Graphics,1920x1080,No,Silver,1.74,No,Yes,Yes
+199900,Hp,13th Generation,Intel Core i7,1.7,8,512,Intel Iris Xe Graphics,1920x1080,No,Silver,1.59,No,Yes,No
+146500,Hp,Intel Core Ultra 5,Intel® Core™ Ultra 5,1.3,8,512,Intel Integrated Graphics,1920x1200,No,Silver,1.74,No,Yes,No
+155000,Hp,Intel Core Ultra 7,Intel® Core™ Ultra 7,1.7,8,512,Intel Integrated Graphics,1920x1200,No,Silver,1.74,No,Yes,No
+148000,Hp,14th Generation,Intel® Core™ Ultra 5,1.3,8,512,Intel Integrated Graphics,1920x1200,No,Silver,1.39,Yes,No,No
+106900,Hp,13th Generation,Intel Core i9,2.2,16,1024,RTX 4060,1920x1080,No,Black,5.24,No,No,Yes
+150000,Hp,AMD,AMD Ryzen 5 ,4.3,8,512,RTX 4050,1920x1080,No,Black,2.29,No,Yes,Yes
+101900,Hp,12th Generation,Intel Core i5,2.0,8,512,RTX 3050,1920x1080,No,Black,5.06,No,Yes,Yes
+100000,Hp,13th Generation,Intel Core i5,1.3,8,512,Intel Iris Xe Graphics,1920x1080,No,Silver,1.52,No,Yes,No
+929000,Hp,13th Generation,Intel Core i3,1.2,4,256,Intel UHD Graphics,1920x1080,No,Silver,1.59,No,Yes,No
+869000,Hp,13th Generation,Intel Core i5,1.3,8,512,Intel Iris Xe Graphics,1920x1080,No,Silver,1.59,No,Yes,No
+849000,Hp,13th Generation,Intel Core i5,1.3,8,512,Intel Iris Xe Graphics,1920x1080,No,Silver,1.52,No,Yes,No
+849000,Hp,13th Generation,Intel Core i5,1.3,8,512,Intel UHD Graphics,1920x1080,No,Silver,1.59,No,Yes,No
+220999,Hp,13th Generation,Core i7,5.0,8,512,NVIDIA GeForce MX550 GDDR6,1920x1080,No,Unknown,1.59,No,Yes,No
+699000,Hp,13th Generation,Intel Core i3,1.2,8,512,Intel UHD Graphics,1920x1080,No,Silver,1.52,No,Yes,No
+108900,Hp,Intel Core Ultra 7,Intel® Core™ Ultra 7,1.7,16,512,Intel Integrated Graphics,1920x1200,No,Silver,1.74,Yes,Yes,No
+107900,Hp,AMD,AMD Ryzen™ 5 ,2.3,8,512,AMD Radeon,1920x1080,No,Black,1.78,Yes,Yes,Yes
+149999,Hp,13th Generation,Core i5,4.6,8,512,Intel Iris Xe Graphics,0,No,Unknown,1.59,No,Yes,Yes
+150499,Hp,13th Generation,Intel Core i5,4.6,8,512,Intel Iris Xe Graphics,35.98x23.6x1.86,No,Unknown,1.59,No,Yes,Yes
+459999,Hp, Ultra 7,Intel Core Ultra,4.8,16,1024,Intel ARC Graphics,14.05x9.67x0.78,No,Unknown,1.95,No,Yes,Yes
+229999,Hp,13th Generation,Intel Core i5,4.6,8,512,SSD,16:9,Yes,Unknown,1.67,No,No,No
+274999,Hp,13th Generation,Intel Core i7,4.6,16,1024,SSD,16:9,Yes,Unknown,1.67,No,No,No
+179999,Hp,13th Generation,Core i5,4.6,8,512,Intel UHD Graphics,0,No,Unknown,1.78,No,No,Yes
+229999,Hp,13th Generation,Core i7,3.7,8,512,Intel Iris Xe Graphics,0,No,Unknown,1.78,No,No,Yes
+194999,Hp, Ultra 5,Intel Core Ultra,4.3,8,512,Intel Graphics,31.86x22.44x1.09,No,Unknown,1.39,No,No,Yes
+229999,Hp, Ultra 7,Intel Core Ultra,4.8,8,512,Intel Graphics,31.86x22.44x1.09,No,Unknown,1.39,No,No,Yes
+185999,Hp,13th Generation,Core i5,4.6,8,512,Intel UHD Graphics,14.14x9.2x0.78,No,Unknown,1.78,No,No,Yes
+239999,Hp,13th Generation,Core i7,3.7,16,512,Intel UHD Graphics,14.14x9.2x0.78,No,Unknown,1.78,No,No,Yes
+389999,Hp,13th Generation,Core i9,5.4,16,1024,NVIDIA GeForce RTX 4060,1920x1080,No,Unknown,2.3,No,Yes,Yes
+279999,Hp,13th Generation,Core i7,3.7,8,512,NVIDIA GeForce RTX 2050,1920x1080,No,Unknown,1.78,No,Yes,Yes
+249999,Hp,12th Generation,Core i7,4.7,8,512,SSD,16:9,Yes,Unknown,1.67,No,No,Yes
+199999,Hp, Ultra 5,Intel Core Ultra,4.3,8,512,SSD,16:10,Yes,Unknown,1.67,No,No,Yes
+234999,Hp, Ultra 7,Intel Core Ultra,4.8,8,512,Intel Graphics,35.94x25.11x1.09,No,Unknown,1.74,No,No,Yes
+100000,Hp,13th Generation,Intel Core i7,5.0,16,512,Intel Iris Xe Graphics,29.8x22.04x1.69,No,Unknown,1.36,No,Yes,Yes
+100000,Hp, Ultra 7,Intel Core Ultra,4.8,16,512,Unknown,12.35x8.68x0.67,No,Unknown,1.45,No,Yes,Yes
+379999,Hp, Ultra 7,Intel Core Ultra,4.8,16,1024,Intel ARC Graphics,12.35x8.68x0.67,No,Unknown,1.45,No,Yes,Yes
+451999,Hp, Ultra 7,Intel Core Ultra,4.8,32,2048,Unknown,12.35x8.68x0.67,No,Unknown,1.45,No,Yes,Yes
+147999,Hp,13th Generation,Core i5,4.6,8,512,SSD,16:9,Yes,Unknown,1.67,No,No,Yes
+230000,Hp,13th Generation,Core i7,3.7,8,512,Intel UHD Graphics,14.14x9.2x0.78,No,Unknown,1.78,No,No,Yes
+250000,Hp,13th Generation,Intel Core i5,4.6,8,512,NVIDIA GeForce RTX 3050 GDDR6,1920x1080,No,Unknown,2.29,No,Yes,Yes
+418999,Hp,14th Generation,Core i7,4.6,32,1024,NVIDIA GeForce RTX 4060,1920x1080,No,Unknown,1.67,No,Yes,No
+584999,Hp,13th Generation,Core i9,5.4,16,1024,NVIDIA GeForce RTX 4060 GDDR6,2560x1600,Yes,Unknown,1.67,No,Yes,No
+116999,Hp,Unknown,Intel Core i3,3.3,8,512,Intel UHD Graphics,36x23.6x1.86,No,Unknown,1.52,No,No,Yes
+154999,Hp,Unknown,Intel Core i5,3.4,8,512,Intel Iris Xe Graphics,36x23.6x1.86,No,Unknown,1.52,No,No,Yes
+184999,Hp,Unknown,Intel Core i7,3.7,8,512,Intel Iris Xe Graphics,36x23.6x1.86,No,Unknown,1.52,No,No,Yes
+181999,Hp,12th Generation,Core i7,4.7,8,512,SSD,16:9,Yes,Unknown,1.67,No,No,Yes
+204999,Hp,13th Generation,Core i5,4.6,8,512,SSD,0,Yes,Unknown,1.67,No,No,No
+264999,Hp,13th Generation,Core i7,4.6,16,1024,SSD,0,Yes,Unknown,1.67,No,No,No
+301999,Hp, Ultra 7,Core Ultra,4.8,8,512,SSD,16:10,Yes,Unknown,1.67,No,No,No
+264999,Hp,13th Generation,Core i5,4.6,8,512,SSD,0,Yes,Unknown,1.67,No,No,Yes
+339999,Hp,13th Generation,Core i7,5.0,16,1024,NVIDIA GeForce RTX 4060 GDDR6,2560x1600,Yes,Unknown,1.67,No,Yes,No
+309999,Hp,13th Generation,Core i7,4.6,16,512,SSD,0,Yes,Unknown,1.67,No,No,No
+189999,Hp,Unknown,Intel Core 5,5.0,8,512,Intel Graphics,0,No,Unknown,1.67,No,Yes,Yes
+221999,Hp,Unknown,Intel Core 7,5.4,16,512,Intel UHD Graphics,0,No,Unknown,1.67,No,Yes,Yes
+244999,Hp,Ryzen 7,AMD Ryzen 7,5.1,16,1024,AMD Radeon Graphics,0,No,Unknown,1.67,No,Yes,Yes
+274999,Hp, Ultra 7,Core Ultra,4.8,16,1024,Intel Iris Xe Graphics,0,No,Unknown,1.67,No,Yes,Yes
+285999,Hp, Ultra 7,Core Ultra,4.8,16,512,Intel Iris Xe Graphics,0,No,Unknown,1.67,No,Yes,Yes
+204999,Hp, Ultra 5,Intel Core Ultra,1.3,16,512,Intel Integrated Graphics,0,Yes,Unknown,1.67,No,Yes,Yes
+264999,Hp, Ultra 7,Core Ultra,4.8,16,1024,Intel Iris Xe Graphics,0,No,Unknown,1.67,No,Yes,Yes
+272999,Hp,Ryzen 7,AMD Ryzen 7,5.1,16,1024,AMD Radeon Graphics,0,No,Unknown,1.67,No,Yes,Yes
+324999,Hp, Ultra 7,Core Ultra,4.8,16,512,SSD,0,Yes,Unknown,1.67,No,No,No
+329999,Hp,13th Generation,Intel Core i7,4.6,16,512,NVIDIA GeForece RTX 4060 GDDR6 GC,1920x1080,No,Unknown,2.29,No,Yes,Yes
+219999,Hp,Ryzen 5,AMD Ryzen 5,4.5,8,512,SSD,0,Yes,Unknown,15.6,No,No,No
+275000,Hp,13th Generation,Intel Core i9,2.2,16,1024,RTX 4060,1920x1080,No,Black,5.24,No,No,Yes
+259999,Hp,12th Generation,Intel Core i5,2.5,16,512,RTX 3050,1920x1080,No,Silver,2.29,No,Yes,Yes
+329900,Hp,12th Generation,Intel Core i5,2.0,8,512,RTX 3050,1920x1080,No,Black,5.06,No,Yes,Yes
+196999,Hp,Ryzen 5,AMD Ryzen 5,4.5,16,512,Nvidia RTX 2050 GDDR6,1920x1080,No,Unknown,2.29,No,Yes,Yes
+245000,Hp,AMD,AMD Ryzen 5 ,3.3,8,512,AMD Radeon,1920x1080,No,Black,5.06,No,Yes,Yes
+141999,Hp,13th Generation,Core i5,4.6,8,512,Intel Iris Xe Graphics,35.98x23.6x1.86,No,Unknown,1.59,No,Yes,Yes
+150000,Hp,13th Generation,Intel Core i9,2.2,16,1024,RTX 4060,1920x1080,No,Black,5.24,No,No,Yes
+174999,Hp,13th Generation,Core i7,5.0,8,512,Intel Iris Xe Graphics,35.98x23.6x1.86,No,Unknown,1.59,No,Yes,Yes
+154999,Hp,Ryzen 7,AMD Ryzen 7,4.3,8,512,AMD Radeon Graphics,35.85x24.2x1.79,No,Unknown,1.69,No,Yes,Yes
+107999,Hp,Unknown,Intel Core i3,4.5,4,256,Intel UHD Graphics,35.98x23.6x1.86,No,Unknown,1.59,No,No,Yes
+106900,Hp,12th Generation,Intel Core i5,2.0,8,512,RTX 3050,1920x1080,No,Black,5.06,No,Yes,Yes
+344999,Hp,AMD,AMD Ryzen 5 ,4.3,8,512,RTX 4050,1920x1080,No,Black,2.29,No,Yes,Yes
+248000,Hp,13th Generation,Intel Core i5,1.3,8,512,Intel Iris Xe Graphics,1920x1080,No,Silver,1.52,No,Yes,No
+204999,Hp,13th Generation,Core i7,4.6,8,512,NVIDIA GeForce MX570 A GDDR6,1920x1080,No,Unknown,1.59,No,Yes,No
+277000,Hp,13th Generation,Intel Core i7,2.1,16,512,RTX 4060,1920x1080,No,Black,2.31,No,Yes,Yes
+121999,Hp,Ryzen 5,AMD Ryzen 5,4.0,8,512,AMD Radeon Graphics,35.85x24.2x1.79,No,Unknown,1.69,No,Yes,Yes
+171999,Hp,11th Generation,Core i7,4.7,8,512,SSD,16:9,Yes,Unknown,1.67,No,No,Yes
+397999,Hp,13th Generation,Intel Core i7,5.0,16,512,NVIDIA GeForce RTX 4070 GDDR6,1920x1080,No,Unknown,2.29,No,Yes,Yes
+108999,Hp,Unknown,Intel Core i3,4.5,4,256,SSD,16:9,Yes,Unknown,1.67,No,No,Yes
+245000,Hp,13th Generation,Intel Core i3,1.2,4,256,Intel UHD Graphics,1920x1080,No,Silver,1.59,No,Yes,No
+334999,Hp,Ryzen 7,AMD Ryzen 7,3.8,16,512,NVIDIA GeForce RTX 4070 GDDR6,1920x1080,No,Unknown,1.67,No,Yes,Yes
+179999,Hp,12th Generation,Core i7,4.7,8,512,Intel Iris Xe Graphics,35.85x24.2x1.79,No,Unknown,1.69,No,Yes,Yes
+229900,Lenovo,14th Generation,Intel® Core™ Ultra 7,1.4,16,1024,RTX 4050,3200x2000,No,Grey,4.41,No,Yes,No
+228999,Lenovo,14th Generation,Intel Core i9,5.8,32,1024,RTX 4060,2560x1600,No,Black,2.36,No,Yes,Yes
+240000,Lenovo,13th Generation,Intel Core i3,1.6,8,256,Intel Integrated Graphics,1920x1080,No,Grey,1.62,No,Yes,No
+136900,Lenovo,13th Generation,Intel Core i7,3.6,24,512,RTX 4060,1920x1080,No,Grey,2.3,No,Yes,Yes
+225000,Lenovo,13th Generation,Intel Core i7,3.6,24,512,RTX 4060,1920x1080,No,Grey,2.3,No,Yes,Yes
+136900,Lenovo,13th Generation,Intel Core i7,3.6,24,512,RTX 4060,1920x1080,No,Grey,2.3,No,Yes,Yes
+144900,Lenovo,12th Generation,Intel Core i7,1.1,8,512,Intel Iris Xe Graphics,1920x1080,No,Silver,1.7,Yes,Yes,Yes
+143900,Lenovo,12th Generation,Intel Core i5,1.3,8,512,MX 550,1920x1080,No,Black,1.59,Yes,No,Yes
+203000,Lenovo,13th Generation,Intel Core i3,1.6,8,256,Intel Integrated Graphics,1920x1080,No,Grey,1.62,No,Yes,No
+385000,Lenovo,Intel Core Ultra 5,Intel® Core™ Ultra 5,1.3,8,512,Intel Integrated Graphics,1920x1200,No,Black,1.81,Yes,Yes,Yes
+202900,Lenovo,Intel Core Ultra 7,Intel® Core™ Ultra 7,1.4,16,512,Intel Integrated Graphics,1920x1200,No,Black,1.44,Yes,No,Yes
+255000,Lenovo,AMD,AMD Ryzen™ 7 ,3.1,16,512,6-GB NVIDIA GeForce RTX4050,1920x1080,No,Grey,2.38,No,Yes,Yes
+344999,Lenovo,Intel Core Ultra 5,Intel® Core™ Ultra 5,1.3,8,512,Intel Integrated Graphics,1920x1200,No,Black,1.44,Yes,No,Yes
+329900,Lenovo,Intel Core Ultra 7,Intel® Core™ Ultra 7,1.4,8,512,Intel Integrated Graphics,1920x1200,No,Grey,1.7,Yes,Yes,Yes
+159900,Lenovo,13th Generation,Intel Core i3,1.6,8,256,Intel Integrated Graphics,1920x1080,No,Grey,1.62,No,Yes,No
+203999,Lenovo,12th Generation,Intel Core i7,1.7,8,512,MX 550,1920x1080,No,Black,1.59,Yes,No,Yes
+150000,Lenovo,13th Generation,Intel Core i5,1.3,8,512,Intel Iris Xe Graphics,1920x1200,No,Black,1.43,Yes,No,Yes
+136900,Lenovo,13th Generation,Intel Core i7,3.7,8,512,Intel Iris Xe Graphics,1920x1200,No,Grey,1.7,Yes,Yes,Yes
+106900,Lenovo,13th Generation,Intel Core i7,2.4,8,512,Intel Iris Xe Graphics,1920x1200,No,Grey,1.38,Yes,No,Yes
+175900,Lenovo,13th Generation,Intel Core i7,3.6,24,512,RTX 4060,1920x1080,No,Grey,2.3,No,Yes,Yes
+106900,Lenovo,12th Generation,Intel Core i7,1.1,8,512,Intel Iris Xe Graphics,1920x1080,No,Black,1.7,Yes,Yes,Yes
+150000,Lenovo,13th Generation,Intel Core i7,3.6,24,512,RTX 4060,1920x1080,No,Grey,2.3,No,Yes,Yes
+274900,Lenovo,13th Generation,Intel Core i7,3.6,24,512,RTX 4060,1920x1080,No,Grey,2.3,No,Yes,Yes
+182900,Lenovo,13th Generation,Intel Core i7,1.7,8,512,Intel Iris Xe Graphics,1920x1200,No,Black,1.81,Yes,Yes,Yes
+150000,Lenovo,13th Generation,Intel Core i5,1.3,8,512,Intel Iris Xe Graphics,1920x1200,No,Black,1.81,Yes,Yes,Yes
+185000,Lenovo,13th Generation,Intel Core i7,2.4,16,512,Intel Iris Xe Graphics,1920x1200,No,Black,1.43,Yes,No,Yes
+188000,Lenovo,13th Generation,Intel Core i5,1.3,8,512,Intel Iris Xe Graphics,1920x1080,Yes,Grey,1.5,Yes,No,No
+193000,Lenovo,AMD,AMD Ryzen™ 7 ,3.1,16,512,6-GB NVIDIA GeForce RTX4050,1920x1080,No,Grey,2.38,No,Yes,Yes
+195000,Lenovo,12th Generation,Intel Core i5,1.3,8,512,Intel Iris Xe Graphics,1920x1200,No,Black,1.478,Yes,No,Yes
+199900,Lenovo,Intel Core Ultra 7,Intel® Core™ Ultra 7,1.4,16,512,Intel Integrated Graphics,1920x1200,No,Black,1.81,Yes,Yes,Yes
+106900,Lenovo,13th Generation,Intel Core i7,2.6,16,512,6-GB NVIDIA GeForce RTX4050,1920x1080,No,Black,2.38,No,Yes,Yes
+257900,Lenovo,13th Generation,Intel Core i7,2.6,16,512,6-GB NVIDIA GeForce RTX4050,1920x1080,No,Black,2.38,No,Yes,Yes
+151000,Lenovo,13th Generation,Intel Core i7,3.7,1,512,Intel Iris Xe Graphics,1920x1200,No,Grey,1.7,Yes,Yes,Yes
+236900,Lenovo,14th Generation,Intel® Core™ Ultra 7,1.4,16,1024,Intel Arc Graphics,3840x2400,Yes,Grey,1.32,Yes,No,No
+179999,Lenovo,13th Generation,Core i7,4.6,8,512,Intel Iris Xe Graphics,359.2x235.8x19.9,No,Unknown,1.65,No,No,Yes
+106900,Lenovo,12th Generation,Intel Core i5,1.3,16,512,Intel UHD Graphics,1920x1080,No,Black,1.59,No,No,Yes
+189999,Lenovo, Ultra 5,Intel Core Ultra,4.3,8,512,Integrated Intel Graphics,14.01x9.98x0.69,No,Unknown,1.7,No,No,Yes
+240999,Lenovo,12th Generation,Core i7,4.7,8,512,NVIDIA MX550,1920x1080,No,Unknown,1.7,No,No,Yes
+205999,Lenovo,12th Generation,Core i5,4.4,16,512,Intel Iris Xe Graphics,12.76x8.69x0.7,No,Unknown,1.64,No,No,Yes
+210999,Lenovo,12th Generation,Core i5,4.4,8,512,NVIDIA GeForce MX550 GDDR6,1920x1080,No,Unknown,1.59,No,Yes,Yes
+150999,Lenovo,Ryzen 5,AMD Ryzen 5,4.3,8,512,AMD SoC Platform,12.76x8.69x0.7,No,Unknown,1.64,No,No,Yes
+259999,Lenovo,13th Generation,Core i7,5.0,16,512,Intel Iris Xe Graphics,0,No,Unknown,1.43,No,No,Yes
+256999,Lenovo,13th Generation,Core i7,5.0,8,512,Intel Iris Xe Graphics,18.73x325.4x217,No,Unknown,1.4,No,No,Yes
+100000,Lenovo, Ultra 5,Core Ultra,4.3,8,512,SSD,0,Yes,Unknown,1.67,No,No,No
+190999,Lenovo,Ryzen 5,AMD Ryzen 5,4.5,16,512,SSD,16:10,Yes,Unknown,1.67,No,No,Yes
+100000,Lenovo, Ultra 7,Core Ultra,4.8,16,512,SSD,0,Yes,Unknown,1.67,No,No,No
+279999,Lenovo, Ultra 7,Core Ultra,4.8,16,512,Intel SoC Platform | Intel AI Boost integrated in Intel Core Ultra processor,0,No,Unknown,1.81,No,No,Yes
+214999,Lenovo,13th Generation,Core i5,4.6,8,512,Intel Iris Xe Graphics,0,No,Unknown,1.81,No,No,Yes
+255999,Lenovo,13th Generation,Core i7,5.0,16,512,Intel Iris Xe Graphics,0,No,Unknown,1.81,No,No,Yes
+275999,Lenovo,12th Generation,Core i5,4.4,8,512,Intel Iris Xe Graphics,0,No,Unknown,1.48,No,No,Yes
+371999,Lenovo,13th Generation,Core i7,5.2,16,512,Intel UHD Graphics,0.70x12.51x8.93,No,Unknown,1.32,No,Yes,Yes
+416999,Lenovo, Ultra 7,Intel Core Ultra,4.8,16,1024,Intel Iris Xe Graphics,12.44x8.81x0.7,No,Unknown,1.38,No,No,Yes
+406999,Lenovo,Unknown,Intel Core i7,5.0,16,512,Integrated Intel Iris Xe Graphics functions as UHD Graphics,14.25x10.06x0.81,No,Unknown,1.68,No,No,Yes
+636999,Lenovo, Ultra 7,Intel Core Ultra,4.8,16,1024,Integrated Intel Graphics,312.8x14.96x214.75,No,Unknown,1.78,No,Yes,Yes
+239999,Lenovo, Ultra 5,Core Ultra,4.3,8,512,Intel SoC Platform | Intel AI Boost integrated in Intel Core Ultra processor,0,No,Unknown,1.81,No,No,Yes
+240000,Lenovo,13th Generation,Core i7,5.0,8,512,Intel Iris Xe Graphics,356x253.5x17.5,No,Unknown,1.7,No,No,Yes
+178999,Lenovo,13th Generation,Core i5,4.6,8,512,Intel Iris Xe Graphics,356x253.5x17.5,No,Unknown,1.7,No,No,Yes
+244999,Lenovo,12th Generation,Core i7,4.7,8,512,Intel Iris Xe Graphics,313.5x224x16.9,No,Unknown,1.7,No,No,Yes
+124999,Lenovo,12th Generation,Core i3,3.3,8,256,Intel UHD Graphics,12.32x0.69x8.85,No,Unknown,1.54,No,No,Yes
+169999,Lenovo,12th Generation,Core i5,1.3,8,512,Intel Iris Xe Graphics,0.69x8.85x12.32,No,Unknown,1.5,No,No,Yes
+114999,Lenovo,13th Generation,Core i3,4.6,8,256,Intel UHD Graphics,359.2x236.5x19.9,No,Unknown,1.65,No,Yes,Yes
+144999,Lenovo,13th Generation,Core i5,4.6,8,512,Intel UHD Graphics,0,No,Unknown,1.67,No,No,Yes
+169999,Lenovo,13th Generation,Core i7,4.9,16,512,Intel UHD Graphics,0,No,Unknown,1.62,No,No,Yes
+534999,Lenovo,Unknown,Intel Core i9,5.8,16,1024,NVIDIA GeForce RTX 4070 GDDR6,2560x1600,No,Unknown,2.36,No,Yes,Yes
+479999,Lenovo,Unknown,Intel Core i9,5.8,32,1024,NVIDIA GeForce RTX 4060 GDDR6,2560x1600,No,Unknown,2.36,No,Yes,Yes
+564999,Lenovo,Unknown,Intel Core i9,5.8,32,2048,NVIDIA GeForce RTX 4070 GDDR6,2560x1600,No,Unknown,2.36,No,Yes,Yes
+424999,Lenovo,Unknown,Intel Core i7,5.2,16,512,NVIDIA GeForce RTX 4060 GDDR6,2560x1600,No,Unknown,2.36,No,Yes,Yes
+444999,Lenovo,Unknown,Intel Core i9,5.4,32,1024,NVIDIA GeForce RTX 4060 GDDR6,2560x1600,No,Unknown,2.36,No,Yes,Yes
+100000,Lenovo,Unknown,Intel Core i7,5.0,16,1024,NVIDIA GeForce RTX 4060 GDDR6,2560x1600,No,Unknown,2.55,No,Yes,Yes
+439999,Lenovo,Unknown,Intel Core i9,5.4,32,1024,NVIDIA GeForce RTX 4070 GDDR6,2560x1600,No,Unknown,2.55,No,Yes,Yes
+754999,Lenovo,Unknown,Intel Core i9,5.8,16,1024,NVIDIA GeForce RTX 4080 GDDR6,2560x1600,No,Unknown,2.62,No,Yes,Yes
+100000,Lenovo,Unknown,Intel Core i7,4.6,16,512,NVIDIA GeForce RTX 4050 GDDR6,2560x1600,No,Unknown,2.4,No,Yes,Yes
+324999,Lenovo,Ryzen 7,AMD Ryzen 7,5.1,24,1024,NVIDIA GeForce RTX 4060 GDDR6,1920x1080,No,Unknown,2.4,No,Yes,Yes
+267999,Lenovo,Ryzen 7,AMD Ryzen 7,5.1,8,512,NVIDIA GeForce RTX 4050 GDDR6,1920x1080,No,Unknown,2.4,No,Yes,Yes
+329999,Lenovo,Unknown,Intel Core i7,4.9,16,512,NVIDIA GeForce RTX 4060 GDDR6,1920x1200,No,Unknown,2.6,No,Yes,Yes
+182999,Lenovo,13th Generation,Core i5,4.6,8,256,SSD,16:10,Yes,Unknown,1.67,No,No,No
+174999,Lenovo,13th Generation,Core i5,4.6,8,512,Intel Iris Xe Graphics,0,No,Unknown,1.38,No,No,Yes
+541999,Lenovo, Ultra 7,Intel Core Ultra,4.8,16,512,Integrated Intel Graphics,11.88x8.45x0.65,No,Unknown,1.25,No,Yes,Yes
+106900,Lenovo,13th Generation,Intel Core i3,1.6,8,256,Intel Integrated Graphics,1920x1080,No,Grey,1.62,No,Yes,No
+144999,Lenovo,13th Generation,Core i5,3.4,8,512,Intel UHD Graphics,359.2x235.8x19.9,No,Unknown,1.65,No,No,Yes
+234999,Lenovo, Ultra 5,Intel Core Ultra,3.6,16,512,SSD,16:10,Yes,Unknown,1.67,No,No,No
+699000,Lenovo,13th Generation,Intel Core i3,1.6,8,256,Intel Integrated Graphics,1920x1080,No,Grey,1.62,No,Yes,No
+699000,Lenovo,13th Generation,Intel Core i3,1.2,8,256,Intel UHD Graphics,1920x1080,No,Black,1.65,No,Yes,Yes
+700000,Lenovo,13th Generation,Intel Core i3,1.2,8,256,Intel UHD Graphics,1920x1080,No,Black,1.65,No,Yes,Yes
+749000,Lenovo,12th Generation,Intel Core i5,1.3,8,512,Intel Integrated Graphics,1920x1080,No,Black,1.7,No,Yes,Yes
+849000,Lenovo,AMD,AMD Ryzen™ 5 ,2.3,8,512,AMD Radeon,1920x1080,No,Black,1.64,No,No,Yes
+869000,Lenovo,13th Generation,Intel Core i5,1.5,8,512,Intel UHD Graphics,1920x1080,No,Black,1.65,No,Yes,Yes
+229000,Lenovo,13th Generation,Intel Core i3,1.6,8,256,Intel Integrated Graphics,1920x1080,No,Grey,1.62,No,Yes,No
+929000,Lenovo,13th Generation,Intel Core i3,1.6,8,256,Intel Integrated Graphics,1920x1080,No,Grey,1.62,No,Yes,No
+119900,Lenovo,13th Generation,Intel Core i5,1.3,8,256,Intel Iris Xe Graphics,1920x1200,No,Grey,1.38,Yes,No,Yes
+124900,Lenovo,13th Generation,Intel Core i7,2.4,16,512,Intel UHD Graphics,1920x1080,No,Grey,1.62,No,Yes,No
+154900,Lenovo,13th Generation,Intel Core i5,1.3,1,512,Intel Iris Xe Graphics,1920x1200,No,Grey,1.7,Yes,Yes,Yes
+244900,Lenovo,Intel Core Ultra 5,Intel® Core™ Ultra 5,1.3,8,512,Intel Integrated Graphics,1920x1200,No,Grey,1.7,Yes,Yes,Yes
+254900,Lenovo,14th Generation,Intel® Core™ Ultra 5,1.3,8,512,Intel Arc Graphics,1920x1200,No,Silver,1.38,Yes,No,Yes
+284900,Lenovo,13th Generation,Intel Core i7,1.7,8,512,Intel UHD Graphics,1920x1080,No,Black,1.65,No,Yes,Yes
+102900,Lenovo,13th Generation,Intel Core i7,3.6,24,512,RTX 4060,1920x1080,No,Grey,2.3,No,Yes,Yes
+305000,Lenovo,14th Generation,Intel Core i9,5.8,32,1024,RTX 4060,2560x1600,No,Black,2.36,No,Yes,Yes
+317900,Lenovo,14th Generation,Intel® Core™ Ultra 7,1.4,16,1024,RTX 4050,3200x2000,No,Grey,4.41,No,Yes,No
+274999,Lenovo,Ryzen 7,AMD Ryzen 7,3.3,16,1024,Intel Integrated Graphics,12.51x0.66x8.75,No,Unknown,1.61,No,No,Yes
+279999,Lenovo, Ultra 7,Intel Core Ultra,1.7,16,1024,Intel Integrated Graphics,0,No,Unknown,1.99,No,No,Yes
+284999,Lenovo, Ultra 7,Intel Core Ultra,1.7,16,1024,Intel Integrated Graphics,0,No,Unknown,1.99,No,No,Yes
+454999,Lenovo, Ultra 7,Intel Core Ultra,1.7,16,1024,Intel Integrated Graphics,0,No,Unknown,1.99,No,No,Yes
+414999,Lenovo,13th Generation,Core i7,5.0,16,512,Intel Iris Xe Graphics,318x230x15.25,No,Unknown,1.4,No,Yes,Yes
+779999,Lenovo,Unknown,Intel Core i7,5.0,16,1024,Intel Iris Xe Graphics,0,No,Unknown,1.34,No,No,Yes
+100000,Lenovo, Ultra 9,Intel Core Ultra,5.1,32,1024,NVIDIA RTX 4060,3200x2000,Yes,Unknown,2.0,No,Yes,No
+1048999,MSI,Unknown,Intel Core i9,2.2,32,1024,NVIDIA GeForce RTX 4090 GDDR6,2560x1600,No,Unknown,2.4,No,Yes,Yes
+949999,MSI,Unknown,Intel Core i9,1.6,64,2048,NVIDIA GeForce RTX 4080 GDDR6,3840x2400,No,Unknown,2.75,No,Yes,Yes
+1329999,MSI, Ultra 9,Intel Core Ultra,3.8,64,2048,NVIDIA GeForce RTX 4090 GDDR6,3840x2400,No,Unknown,1.99,No,Yes,Yes
+229900,Microsoft,12th Generation,Intel Core i7,3.6,16,512,Intel Iris Xe Graphics,2880x1920,Yes,Platinum Silver,1.94,No,No,No
+100000,Samsung,13th Generation,Core i7,4.8,16,1024,Nvidia RTX 4050 GDDR6,2880x1800,Yes,Unknown,1.85,No,Yes,No
+100000,Samsung, Ultra 7,Core Ultra,4.8,32,1024,Nvidia RTX 4050 GDDR6,2880x1800,Yes,Unknown,1.85,No,Yes,No
+547999,Surface, Ultra 7,Intel Core Ultra,4.6,16,256,Intel Arc Graphics,308x223x16.7,No,Unknown,1.38,No,No,Yes
+363499,Surface, Ultra 5,Intel Core Ultra,4.6,16,256,Intel Arc Graphics,340x244x16.9,No,Unknown,1.68,No,No,Yes
+478499,Surface, Ultra 5,Intel Core Ultra,4.6,32,512,Intel Arc Graphics,340x244x16.9,No,Unknown,1.68,No,No,Yes
+642999,Surface, X Elite,Snapdragon,4.6,64,1024,Qualcomm Adreno,2304x1536,Yes,Unknown,1.36,No,Yes,No
+495000,Surface, X Elite,Snapdragon,4.6,16,512,Qualcomm Adreno,2304x1536,Yes,Unknown,1.36,No,Yes,No
+664999,Surface, Ultra 7,Intel Core Ultra,4.6,64,1024,Intel Arc Graphics,340x244x16.9,No,Unknown,1.68,No,No,Yes
+463999,Surface, Ultra 7,Intel Core Ultra,4.6,32,512,Intel Arc Graphics,340x244x16.9,No,Unknown,1.68,No,No,Yes
+576999,Surface, Ultra 7,Intel Core Ultra,4.6,32,1024,Intel Arc Graphics,340x244x16.9,No,Unknown,1.68,No,No,Yes
+450999,Surface, Ultra 7,Intel Core Ultra,4.6,16,512,Intel Arc Graphics,308x223x16.7,No,Unknown,1.38,No,No,Yes
+447999,Surface, Ultra 7,Intel Core Ultra,4.6,16,512,Intel Arc Graphics,308x223x16.7,No,Unknown,1.38,No,No,Yes
+419999,Surface, Ultra 5,Intel Core Ultra,4.6,16,256,Intel Arc Graphics,340x244x16.9,No,Unknown,1.68,No,No,Yes
+471999,Surface, Ultra 7,Intel Core Ultra,4.6,32,512,Intel Arc Graphics,308x223x16.7,No,Unknown,1.38,No,No,Yes
+471999,Surface, Ultra 7,Intel Core Ultra,4.6,32,256,Intel Arc Graphics,308x223x16.7,No,Unknown,1.38,No,No,Yes
+437499,Surface, Ultra 5,Intel Core Ultra,4.6,32,256,Intel Arc Graphics,340x244x16.9,No,Unknown,1.68,No,No,Yes
+350000,Surface, Ultra 5,Intel Core Ultra,4.6,8,256,Intel Arc Graphics,340x244x16.9,No,Unknown,1.68,No,No,Yes
